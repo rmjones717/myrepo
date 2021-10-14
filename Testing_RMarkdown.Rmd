@@ -2,7 +2,7 @@
 title: "Testing_RMarkdown"
 author: "Mark Jones"
 date: "10/14/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
